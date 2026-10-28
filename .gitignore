@@ -1,0 +1,12 @@
+# Environnement virtuel Python
+venv/
+.venv/
+__pycache__/
+
+# Checkpoints Jupyter / VS Code
+.ipynb_checkpoints/
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
